@@ -1,2 +1,1 @@
-Hi!
-My name is Marcel. I try to develop any kind of software with the purpose in mind to help people. 
+<h3 align="center">Doing Dev Stuff ¯\_(ツ)_/¯</h3>
