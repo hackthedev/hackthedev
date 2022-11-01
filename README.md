@@ -2,3 +2,4 @@
 <br>
 
 My Code is like art. Sometimes its so magical i dont know how it works.
+Working A LOT in the background. Sorry if it seems like im inactive
