@@ -1,10 +1,5 @@
  Software Developer 🧯 . Love to do all kinds of projects.
 
-
-> So you can suck my dick if you don't like my shit
-
-\- Eminem
-
 ---
 
 <h3>GitHub Stats</h3>
