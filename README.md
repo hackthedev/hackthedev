@@ -1,15 +1,7 @@
- Software Developer 🧯 . Love to do all kinds of projects.
+Just some dev planning something big
 
 ---
 
-<h3>GitHub Stats</h3>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=hackthedev&show_icons=true&theme=nord" />
-</p>
-
-*(who cares honestly)*
-
----
 
 <h3>Support My Work</h3>
 <p>
