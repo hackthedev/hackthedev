@@ -1,4 +1,4 @@
-Just some dev planning something big
+im just good at hitting random keys
 
 ---
 
