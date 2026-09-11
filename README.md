@@ -1,6 +1,6 @@
 im just good at hitting random keys
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=hackthedev&show_icons=true&include_all_commits=true&theme=light_github)](https://github-stats-extended.vercel.app/api?username=hackthedev&show_icons=true&include_all_commits=true&theme=light_github)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=hackthedev&rank_icon=percentile&show_icons=true&theme=light_github)](https://github-stats-extended.vercel.app/api?username=hackthedev&rank_icon=percentile&show_icons=true&theme=light_github)
 
 ---
 
